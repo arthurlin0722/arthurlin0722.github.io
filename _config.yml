@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ａrthur (Ti-Ting) Lin / 林奕廷"
+title                    : "Arthur (Ti-Ting) Lin / 林奕廷"
 title_separator          : "-"
 name                     : &name "Arthur Lin"
 description              : &description "Physics related resources, notes, publications, and more."

@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics and Mathematics, Massachusetts Institute of Technonlogy, 2027 (expected)
 
 Work experience
 ======
@@ -30,11 +28,18 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Python
+  * Numerically solving equations
+  * Visualized simulation
 * Skill 3
+
+Languages
+======
+* English
+* Chinese
+  * Native
+  * Traditional
+
 
 Publications
 ======

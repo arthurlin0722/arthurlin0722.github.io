@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and Mathematics, Massachusetts Institute of Technonlogy, 2027 (expected)
+* B.S. in Physics and Mathematics, Massachusetts Institute of Technology, 2027 (expected)
 
 Work experience
 ======
@@ -27,11 +27,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
 * Python
   * Numerically solving equations
   * Visualized simulation
-* Skill 3
 
 Languages
 ======

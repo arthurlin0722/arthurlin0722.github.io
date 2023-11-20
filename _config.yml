@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arthur (Ti-Ting) Lin / 林奕廷"
+title                    : "Arthur (Ti-Ting) Lin 林奕廷"
 title_separator          : "-"
-name                     : &name "Arthur Lin"
+name                     : &name "Arthur Lin 林奕廷"
 description              : &description "Physics related resources, notes, publications, and more."
 url                      : https://arthurlin0722.github.io # the base hostname & protocol for your site e.g. "https://arthurlin0722.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arthur Lin"
+  name             : "Arthur Lin 林奕廷"
   avatar           : "profile.png"
   bio              : "Undergraduate student, Massachusetts Institute of Technology"
   location         : "Cambridge MA, USA"

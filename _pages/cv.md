@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics and Mathematics, Massachusetts Institute of Technology, 2027 (expected)
+* B.S. in Physics and Mathematics, Massachusetts Institute of Technology, USA, 2027 (expected)
+* Mathematics and Science Oriented Program, Taichung Municipal Taichung First Senior High School, Taiwan, 2023
 
 Work experience
 ======
@@ -56,6 +57,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* International Physics Olympiad Gold Medal (rank 11), Switzerland, 2022
+* Asian Physics Olympiad Silver Medal (rank 16), India, 2022
+* Asian Physics Olympiad Gold Medal (rank 19), Taiwan, 2021
   
 Service and leadership
 ======

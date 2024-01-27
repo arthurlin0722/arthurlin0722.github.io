@@ -96,6 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-1842-0727"
   github           : "arthur0722"
   google_plus      :
   keybase          :
@@ -103,7 +104,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "arthurlin72"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-1842-0727"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

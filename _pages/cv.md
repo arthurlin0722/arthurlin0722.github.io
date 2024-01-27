@@ -14,17 +14,11 @@ Education
 * B.S. in Physics and Mathematics, Massachusetts Institute of Technology, USA, 2027 (expected)
 * Mathematics and Science Oriented Program, Taichung Municipal Taichung First Senior High School, Taiwan, 2023
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Undergraduate Research
+  * Works on LHCb data analysis
+  * Supervisor: Professor Michael Williams
   
 Skills
 ======

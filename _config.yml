@@ -146,7 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - markdown.md
+  - _pages/markdown.md
 keep_files:
   - .git
   - .svn

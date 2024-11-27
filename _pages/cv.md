@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Resume in pdf file](https://github.com/arthurlin0722/arthurlin0722.github.io/blob/master/files/Arthur_Lin_resume.pdf) 
 
 Education
 ======
@@ -38,26 +39,15 @@ Languages
 
 Publications
 ======
-<! <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
->
+
   
 Talks
 ======
-<!
-<ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
->
+
   
 Teaching
 ======
-<!
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
->
+ 
 
 Awards
 ======

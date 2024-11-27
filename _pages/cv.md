@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume in pdf file](https://github.com/arthurlin0722/arthurlin0722.github.io/blob/master/files/Arthur_Lin_resume.pdf) 
+[Resume in pdf file](arthurlin0722@github.io/files/Arthur_Lin_resume.pdf) 
 
 Education
 ======

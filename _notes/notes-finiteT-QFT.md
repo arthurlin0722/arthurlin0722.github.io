@@ -5,7 +5,7 @@ excerpt: "This is a note I wrote for MIT's quantum field theory III (8.325) fina
 collection: notes
 ---
 
-[final paper in pdf](https://github.com/arthurlin0722/arthurlin0722.github.io/blob/master/files/8_325_Project.pdf) 
+[final paper in pdf]([https://github.com/arthurlin0722/arthurlin0722.github.io/blob/master/files/8_325_Project.pdf](https://github.com/arthurlin0722/arthurlin0722.github.io/blob/fb3f63c37c6f292bcc01fe2df1773caa22a3a278/files/8_325_project.pdf)) 
 
 
 

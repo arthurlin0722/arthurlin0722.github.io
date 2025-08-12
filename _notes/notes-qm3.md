@@ -1,6 +1,6 @@
 ---
 title: "Quantum Mechanics Fomula Sheet"
-excerpt: "These are the notes I used to perpare for MIT's Quantum Physics III (8.06) exam."
+excerpt: "These are the notes I used to perpare for MIT's quantum physics III (8.06) exam."
 collection: notes
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Classical Mechanics Notes"
-excerpt: "rough notes on classical mechanics"
+excerpt: "These are some rough notes on classical mechanics, mainly written when I was prepareing for IPhO and slightly modified after I took classical mech II (8.223) at MIT. These notes are far from complete and not meant to be used for a rigorous reference."
 collection: notes
 ---
 

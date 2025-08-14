@@ -1,6 +1,6 @@
 ---
 title: "Statistical Mechanics Notes"
-excerpt: "These are some rough notes on statistical mechanics, mainly written when I was prepareing for IPhO and slightly modified but far from complete after I took stat mech I (8.333) at MIT."
+excerpt: "These are some rough notes on statistical mechanics, mainly written when I was prepareing for IPhO and slightly modified after I took stat mech I (8.333) at MIT. These notes are far from complete and not meant to be used for a rigorous reference."
 collection: notes
 ---
 

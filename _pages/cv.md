@@ -17,6 +17,9 @@ Education
 
 Current Project(s)
 ======
+* Fall 2025: MIT, center for theoretical physics, 
+  * Jet substructure observables prediction with the pQCD + holography hybrid model.
+  
 * Summer 2025: Technical University of Munich, department of physics T30f effective field theory group
   * Effective field theory and open quantum systems approach to bottomomia suppression.
 

@@ -16,5 +16,5 @@ On top of these, I worked on a project calculating symmetric sectors of a spin c
 
 Before coming to MIT, I participated in the International Physics Olympiad and Asian Physics Olympiad as a representive of Taiwan. I came in 11th in the 2022 International Physics Olympiad organized in Switzerland. After competeing in IPhO, I started tutoring high school students to promote physics by making connections between high school physics and more advanced concepts through a problem-solving based approach. 
 
-In my free time, I enjoy volleyball, cooking, and speedcubing. I am a setter at the MIT men's volleyball club, a proud fried chicken/mushroom chef at the MIT Association of Taiwanese Students, and a slow braised dishes enjoyer. I also enjoy learning new things about different cultural traditions and languages.
+In my free time, I enjoy volleyball, cooking, and speedcubing. I am a setter at the MIT men's volleyball club, a proud fried chicken/mushroom chef at the MIT Association of Taiwanese Students, and a slow braised dishes enjoyer. I also enjoy learning new things about different cultural traditions and languages. I speak Mandarin and Taiwanese Hokkien (a.k.a Taiwanese/Taiwan Minanese) as a native speaker, English as my main language used in professional settings, and I have been learning German for roughly a year, with which I hopefully will continue. 
 

@@ -15,7 +15,7 @@ main:
     url: /notes/
         
   - title: "Blog Posts"
-    url: /blog-post/
+    url: /blog-posts/
     
   - title: "CV"
     url: /cv/

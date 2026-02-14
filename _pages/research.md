@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
+{% include base_path %}
 
 ## Overview
 I am interested in theoretical nuclear and particle physics, especially non-perturabtive methods in quantum field theories that lead to profound connections between different disciplines in physics, mathematics, and other sciences. In particular, I find non-perturbative phenomenons that arise in quantum chromodynamics (QCD) particularly intriguing, and that they often lead to surprising and exciting discoveries. On the practical aspect, I've enjoyed working on hard probes of the quark gluon plasma (QGP), applying phenomenological models such as effective field theories and the AdS/CFT dualituy to provide pre/postdictions of measurements in heavy ion collisions. 

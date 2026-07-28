@@ -11,9 +11,9 @@ title                    : "Arthur (Yi-Ting) Lin 林奕廷"
 title_separator          : "-"
 name                     : &name "Arthur (Yi-Ting) Lin 林奕廷"
 description              : &description "Physics related resources, notes, publications."
-url                      : https://arthurlin0722.github.io # the base hostname & protocol for your site e.g. "https://arthurlin0722.github.io"
+url                      : https://lin-arthur.github.io # the base hostname & protocol for your site e.g. "https://arthurlin0722.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "arthurlin0722/arthurlin0722.github.io"
+repository               : "lin-arthur/lin-arthur.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-1842-0727"
-  github           : #"arthur0722"
+  github           : "lin-arthur"
   google_plus      :
   keybase          :
   instagram        :
